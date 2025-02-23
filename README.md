@@ -2,7 +2,7 @@
 
 A classic Snake game implementation in Rust, running directly in your terminal! Perfect for both nostalgia and learning Rust basics.
 
-![Gameplay Demo](https://via.placeholder.com/600x300.png?text=Terminal+Snake+Gameplay)
+![Gameplay Demo](./docs/example_image.png)
 
 ## Features �
 - 🕹️ Classic snake gameplay mechanics
